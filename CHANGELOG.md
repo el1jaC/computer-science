@@ -6,6 +6,9 @@ This project adheres *in spirit* to [Semantic Versioning](http://semver.org/):
 - "MINOR" updates correspond to changing courses without changing the topics
 - "PATCH" updates correspond to aesthetic and non-essential additions/removals or changing order of classes for better progression
 
+## [8.0.0-elia] 2020-03-10
+- Fork from GitHub in my account.
+
 ## [8.0.0] 2017-11-01
 ### Added
 - extras/readings: "The System Design Primer"
