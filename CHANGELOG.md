@@ -6,6 +6,9 @@ This project adheres *in spirit* to [Semantic Versioning](http://semver.org/):
 - "MINOR" updates correspond to changing courses without changing the topics
 - "PATCH" updates correspond to aesthetic and non-essential additions/removals or changing order of classes for better progression
 
+## CUSTOM
+- Fork github
+
 ## [8.0.0-elia] 2020-03-10
 - Fork from GitHub in my account.
 

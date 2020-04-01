@@ -1,5 +1,7 @@
 # Contributor guidelines
 
+DUMMY COMMENT
+
 This project primarily uses GitHub for collaboration, however not all discussions are appropriate for GitHub.
 Please follow these guidelines:
 1. If you need help with the *academic* content of a course or are having general technical difficulties, please do not use GitHub for this.
